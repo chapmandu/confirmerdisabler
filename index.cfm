@@ -2,7 +2,7 @@
 
   <cfset _plugin = application.wheels.plugins.confirmerdisabler.init()>
 
-	<h1>CFWheels Legacy Javascript Confirmer & Disabler V#_plugin.pluginVersion()#</h1>
+	<h1>Javascript Confirmer & Disabler V#_plugin.pluginVersion()# for CFWheels 2.x</h1>
 	<h3>Re-instates removed <code>confirm</code> and <code>disable</code> arguments.</h3>
 
   <h3>Applies to:</h3>

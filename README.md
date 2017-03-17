@@ -1,4 +1,4 @@
-# Confirmer & Disabler for CFWheels 2.x
+# Javascript Confirmer & Disabler for CFWheels 2.x
 
 ## Re-instates removed `confirm` and `disable` arguments
 
